@@ -6,7 +6,7 @@ header{
 	background-color: #011e29;
 	text-align: center;
 }
-h1{
+h2{
 	
 	color: white;
 }
@@ -17,12 +17,8 @@ main{
 	flex-basis: auto;
 }
 
-.latest{
-	padding-right: 20px;
-}
-
-.article{
-	padding-right: 20px;
+.pictorial-news-section{
+	text-align: center;
 }
 
 
